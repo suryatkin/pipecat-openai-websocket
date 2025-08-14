@@ -1,5 +1,5 @@
 python-dotenv
-pipecat-ai[openai,websocket]=0.0.42
+pipecat-ai[openai,websocket]==0.0.42
 fastapi
 uvicorn
 loguru
